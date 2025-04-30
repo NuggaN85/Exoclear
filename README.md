@@ -14,4 +14,5 @@ Je suis un bot conçu pour vous offrir une solution rapide et efficace pour gér
 **Menu contextuel** :
 
 Vous avez aussi la possibilité de supprimer tout les messages de tout les canaux d'un utilisateur.
+
 Vous avez aussi la possibilité de normalisées le pseudo d'un utilisateur.
