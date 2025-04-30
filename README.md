@@ -11,17 +11,7 @@ Je suis un bot conçu pour vous offrir une solution rapide et efficace pour gér
 * `/warn` (Avertit un utilisateur en message privé).
 * `/blacklist` (Permet de blacklisté utilisateur & bot).
 
-:Fleche: Vous avez aussi la possibilité de supprimer tout les messages de tout les canaux d'un utilisateur avec le menu contextuel.
-:Fleche: Vous avez aussi la possibilité de normalisées le pseudo d'un utilisateur avec le menu contextuel.
+**Menu contextuel**
 
-Si vous avez des suggestions ou des bugs pour EXOCLEAR hésiter pas à venir nous en parlé sur le Discord support.
-
-:white_check_mark: Bot certifié, fiable et sécurisé !
-
-:arrow_right: Ajout du bot : https://discord.com/application-directory/838371014463193089
-
-:arrow_right: Discord support : https://discord.gg/3FeWMvWdna
-
-:arrow_right: Top.gg : https://top.gg/bot/838371014463193089
-
-:arrow_right: DiscordBotList : https://discord.ly/exoclear
+Vous avez aussi la possibilité de supprimer tout les messages de tout les canaux d'un utilisateur avec le menu contextuel.
+Vous avez aussi la possibilité de normalisées le pseudo d'un utilisateur avec le menu contextuel.
