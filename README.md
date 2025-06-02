@@ -1,3 +1,5 @@
+**`Mise à jour : version 1.1.4`**
+
 # Exoclear Discord Bot
 
 Exoclear est un bot Discord conçu pour aider à modérer les serveurs Discord. Il offre une variété de fonctionnalités pour gérer les utilisateurs, les messages, et les salons.
